@@ -26,11 +26,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choihyeonseo38&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=87CEFA" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimdonggeon&show_icons=true&theme=tokyonight&title_color=8A2BE2&icon_color=87CEFA" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choihyeonseo38&theme=tokyonight&fire=8A2BE2"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimdonggeon&theme=tokyonight&fire=8A2BE2"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choihyeonseo38&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdonggeon&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
